@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello There! 👋, I’m Shipon Sarkar 
 
-<!--
-**sarkarBetaV/sarkarBetaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sotware Developer
 
-Here are some ideas to get you started:
+- I love making software solutions 💞
+- Persuing Computer Science and Engineering undergraduation.
+- I am open to new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me on [LinkedIn](https://www.linkedin.com/in/shipon-s-b780641a0/).
+
+## LANGUAGES & Technologies
+
+<p>
+  $\textcolor{#f020d5}{[ HTML ]}$ 
+  $\textcolor{#1020d5}{[ CSS ]}$
+</p> 
+
+## TOOLS
+
+<p>
+  $\textcolor{#2767de}{[ VSCode ]}$   
+  $\textcolor{#33afa5}{[ Git ]}$   
+  $\textcolor{#a55a5a}{[ GitHub ]}$ 
+  $\textcolor{#a5f55a}{[ Slack ]}$   
+  $\textcolor{#e5f025}{[ Figma ]}$   
+</p>
