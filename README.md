@@ -21,6 +21,6 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/shipon-s-b780641a0/).
   $\textcolor{#2767de}{[ VSCode ]}$   
   $\textcolor{#33afa5}{[ Git ]}$   
   $\textcolor{#a55a5a}{[ GitHub ]}$ 
-  $\textcolor{#a5f55a}{[ Slack ]}$   
-  $\textcolor{#e5f025}{[ Figma ]}$   
+  $\textcolor{#33afa5}{[ Slack ]}$   
+  $\textcolor{#a55a5a}{[ Figma ]}$   
 </p>
